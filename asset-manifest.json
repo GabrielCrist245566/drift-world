@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drift-world/static/css/main.24a656f0.css",
+    "main.js": "/drift-world/static/js/main.318415e2.js",
+    "static/js/453.7259b16f.chunk.js": "/drift-world/static/js/453.7259b16f.chunk.js",
+    "index.html": "/drift-world/index.html",
+    "main.24a656f0.css.map": "/drift-world/static/css/main.24a656f0.css.map",
+    "main.318415e2.js.map": "/drift-world/static/js/main.318415e2.js.map",
+    "453.7259b16f.chunk.js.map": "/drift-world/static/js/453.7259b16f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24a656f0.css",
+    "static/js/main.318415e2.js"
+  ]
+}
